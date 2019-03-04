@@ -1,0 +1,1 @@
+worker: pynthon bot.py
